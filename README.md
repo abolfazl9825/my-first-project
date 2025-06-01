@@ -1,2 +1,9 @@
-# my-first-project
-My first programming and Web3 practice project created to showcase learning progress and interest in crypto and software development.
+# My First Project
+
+This is a simple project created by Abolfazl Solhjoo to practice programming and demonstrate interest in Web3 and software development.
+
+## Contents
+- hello.py: A simple Python script that prints a welcome message
+
+## About Me
+I am a real estate consultant learning programming and exploring the crypto world. This repository is part of my journey into Web3 and software development.
